@@ -36,8 +36,12 @@ Gym Management System/ │ ├── Auth/ # Login and registration logic ├─
 git clone https://github.com/your-username/gym-management-system.git
 cd gym-management-system
 
+---
+
 2. Install Dependencies
 npm install
+
+---
 
 3. Set up Environment Variables
 Create a .env file with the following:
@@ -46,7 +50,9 @@ PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 
-4. Start the Server
+---
+
+5. Start the Server
 node index.js
 ✅ Future Improvements
 📱 Add mobile responsiveness
