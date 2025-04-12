@@ -26,14 +26,13 @@ Gym Management System/ │ ├── Auth/ # Login and registration logic ├─
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, Mongoose
 - **Authentication:** JWT, bcrypt
-- **Frontend:** (If using) React or plain HTML/CSS in `my-app/`
+- **Frontend:** React and HTML,CSS in `my-app/`
 
 ---
 
 ## 🛠️ Getting Started
 
 ### 1. Clone the Repo
-```bash
 git clone https://github.com/your-username/gym-management-system.git
 cd gym-management-system
 
