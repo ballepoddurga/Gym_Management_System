@@ -16,7 +16,7 @@ A full-featured Gym Management System built with Node.js, Express, and MongoDB t
 ---
 
 ## 📁 Folder Structure
-Gym Management System/ │ ├── Auth/ # Login and registration logic ├── Controllers/ # All business logic functions ├── DBConn/ # MongoDB connection setup ├── Modals/ # Mongoose models/schemas ├── Routes/ # All API routes ├── my-app/ # Frontend (if included in same repo) ├── index.js # Main backend entry point ├── .env # Environment variables (not uploaded) ├── .gitignore ├── package.json └── README.md
+Gym Management System/ │ ├── Auth/ # Login and registration logic ├── Controllers/ # All business logic functions ├── DBConn/ # MongoDB connection setup ├── Modals/ # Mongoose models/schemas ├── Routes/ # All API routes ├── my-app/ # Frontend  ├── index.js # Main backend entry point ├── .env ├── .gitignore ├── package.json └── README.md
 
 
 ---
