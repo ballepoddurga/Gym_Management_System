@@ -38,12 +38,12 @@ cd gym-management-system
 
 ---
 
-2. Install Dependencies
+2. Install Dependencies: 
 npm install
 
 ---
 
-3. Set up Environment Variables
+3. Set up Environment Variables: 
 Create a .env file with the following:
 
 PORT=5000
@@ -52,9 +52,12 @@ JWT_SECRET=your_secret_key
 
 ---
 
-5. Start the Server
+5. Start the Server: 
 node index.js
-✅ Future Improvements
+
+---
+
+✅ Future Improvements: 
 📱 Add mobile responsiveness
 
 💬 Integrate chat between trainers and members
